@@ -1,5 +1,5 @@
 Aim:
-To begin learning Python programming through a beginner-friendly introduction to fundamental concepts such as data types, variables, and operators.
+To begin learning Python programming through a beginner friendly introduction to fundamental concepts such as data types, variables, and operators.
 
 This notebook provides a structured introduction to the basics of Python programming. It focuses on core concepts including variables, data types (such as integers, floats, and strings), arithmetic operators, user input handling, mathematical calculations, and decision-making statements. These foundational elements are essential for building a strong base in programming and preparing for more advanced topics.
 
